@@ -20,9 +20,7 @@ Scrape product data from Autodoc UK. Extracts names, prices, brand, identifiers 
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.1` |
-| **Total Runs** | 244 |
-| **Total Users** | 7 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
